@@ -108,9 +108,8 @@ notebooks/EDA_nps.ipynb
 
 ## Como Reproduzir os Resultados
 
-1. Utilizar dados da pasta data/raw
-2. Executar o notebook completo
-3. Garantir versões compatíveis das bibliotecas
+1. Executar o notebook completo
+2. Garantir versões compatíveis das bibliotecas
 
 ---
 
